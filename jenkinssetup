@@ -1,6 +1,7 @@
 ###########jenkins
 
 sudo apt update
+yum install git -y
 sudo apt install fontconfig openjdk-17-jre
 java -version
 openjdk version "17.0.13" 2024-10-15
